@@ -1,0 +1,2 @@
+atproto>=0.0.55
+APScheduler>=3.10.4
