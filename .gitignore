@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Bot state (commented out for GitHub Actions - we need to commit this)
+# bot_state.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
