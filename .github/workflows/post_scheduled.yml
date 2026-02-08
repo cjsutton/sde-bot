@@ -1,0 +1,50 @@
+name: Bluesky Scheduled Posts
+
+on:
+  schedule:
+    # Post at 9:00 AM UTC (adjust for your timezone)
+    - cron: '0 9 * * *'
+    # Post at 3:00 PM UTC
+    - cron: '0 15 * * *'
+    # Post at 9:00 PM UTC
+    - cron: '0 21 * * *'
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  post-to-bluesky:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        
+    - name: Run bot
+      env:
+        BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+        BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+      run: |
+        python bluesky_bot_scheduled.py
+        
+    - name: Commit updated files
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add bot_state.json scheduled_posts.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update bot state and scheduled posts [skip ci]"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
