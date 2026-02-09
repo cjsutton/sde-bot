@@ -2,10 +2,10 @@ name: Bluesky Scheduled Posts
 
 on:
   schedule:
-    # Post at 9:00 AM EST (adjust for your timezone)
-    - cron: '0 14 * * *'
-    # Post at 4:00 PM EST
-    - cron: '0 21 * * *'
+    # Post at 10:00 AM EST (adjust for your timezone)
+    - cron: '0 15 * * *'
+    # Post at 9:00 PM EST
+    - cron: '0 2 * * *'
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
