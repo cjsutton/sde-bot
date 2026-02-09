@@ -4,8 +4,8 @@ on:
   schedule:
     # Post at 10:00 AM EST (adjust for your timezone)
     - cron: '0 15 * * *'
-    # Post at 9:00 PM EST
-    - cron: '0 2 * * *'
+    # Post at 8:00 PM EST
+    - cron: '0 1 * * *'
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
