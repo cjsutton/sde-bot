@@ -97,11 +97,11 @@ class BlueskyBot:
         """
         Save the bot state (recent posts history).
         Args:
-            recent_posts: List of recently used post texts (max 120 for 60 days at 2/day)
+            recent_posts: List of recently used post texts (max 220 for 110 days at 2/day)
         """
         try:
-            # Keep only the last 120 posts
-            recent_posts = recent_posts[-120:]
+            # Keep only the last 220 posts
+            recent_posts = recent_posts[-220:]
             
             with open(self.state_file, 'w') as f:
                 json.dump({'recent_posts': recent_posts}, f, indent=2)
