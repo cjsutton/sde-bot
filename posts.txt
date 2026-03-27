@@ -3,13 +3,13 @@
 "Maxine" is Fagen at his most normal which is still weird
 "The Boston Rag" is about absolutely nothing and it still slaps
 [ACTION] Adjusting the "Mu Major" chord density to 98% efficiency
-[BOOT] Initializing Steely Dan OS.
+[BOOT] Initializing Steely Dan OS
 [ERROR] Detected a chord that wasn't jazz-adjacent. Immediate containment required.
 [ERROR] Roger Nichols not found. Aborting the digital drum sequence.
 [ERROR] Too much static detected. Switching to FM mode.
 [OPTIMIZATION] Increasing the distance between the listener and Annandale
 [OPTIMIZATION] Synchronizing the Purdie Shuffle with the global clock
-[PATCH NOTES] v7.7 Drum fills now arrive exactly when expected.
+[PATCH NOTES] v7.7 Drum fills now arrive exactly when expected
 [STATUS] Checking the car for gas. Result: There is gas in the car.
 [STATUS] Hiring 40 session guitarists for a two-second solo transition
 [STATUS] Inspecting studio budget. Result: High.
@@ -19,14 +19,14 @@
 [SYSTEM] Recalibrating sarcasm levels for 192kHz playback
 [SYSTEM] Updating the "Rikki" contact info... Number has not been lost
 [UPDATE] Deleting the entire album because the snare hit on track four felt wrong
-[UPDATE] Legacy systems now compatible with modern cynicism.
-[WARNING] Irony buffer at capacity.
+[UPDATE] Legacy systems now compatible with modern cynicism
+[WARNING] Irony buffer at capacity
 A one-star review of your playlist: needs more cynical lyrics about illicit substances and 1970s Los Angeles
-BREAKING: Local man buys a saxophone, realizes he still can't play "exactly what he feels."
-Chuck Rainey hiding his bass behind a screen is the level of workplace boundaries I aspire to.
+BREAKING: Local man buys a saxophone, realizes he still can't play "just what he feels."
+Chuck Rainey hiding his bass behind a screen is the level of workplace boundaries I aspire to
 Currently explaining to someone that Steely Dan is two guys
-Currently gaslighting Abbie but Abbie is just my own reflection in the microwave door at 2:00 AM.
-Currently mourning "Kulee Baba" like it was a close family member.
+Currently gaslighting Abbie but Abbie is just my own reflection in the microwave door at 2:00 AM
+Currently mourning "Kulee Baba" like it was a close family member
 Dating a nineteen year old? In this economy?
 Donald Fagen's voice sounds like he's disappointed in you specifically
 Drinking coffee and listening to Steely Dan
@@ -37,10 +37,10 @@ Fagen and Becker wrote lyrics that make English professors sweat
 Gaucho took so long to make that the 70s ended before they finished
 Getting a Haitian divorce? In this economy?
 Going back to Annandale? In this economy?
-HELP WANTED: A fool to do my dirty work.
+HELP WANTED: A fool to do my dirty work
 I don’t have a favorite child, but if I did, it would be Denny Dias’s solo on "Your Gold Teeth II."
 I don't trust people who think "Aja" is just a name and not a spiritual awakening
-If my life were a Steely Dan song, it would be 7 minutes long and about a very specific type of tax fraud.
+If my life were a Steely Dan song, it would be 7 minutes long and about a very specific type of tax fraud
 If Steely Dan was a person they'd correct your grammar at a funeral
 If the bridge doesn't require a degree in music theory to understand, I don't want to hear it
 If you can’t hear the sarcasm in the guitar solo, are you even listening?
@@ -186,7 +186,7 @@ Listening to Steely Dan and judging imaginary people
 Listening to Steely Dan and trying to achieve the perfect 1977 studio sheen in my kitchen
 Listening to Steely Dan at the function so people know I'm damaged
 Listening to Steely Dan like I’m late for something in 1977
-Listening to Steely Dan. Again.
+Listening to Steely Dan. Yes, again.
 Looking for a "Negative Girl" to match my "Everything Must Go" energy
 Lunching with Gina? In this economy?
 My internal monologue is just the Purdie Shuffle
@@ -194,7 +194,7 @@ My therapist asked where it hurts and I just pointed to the bridge of "Deacon Bl
 PERSONALS: Any major dude with half a heart seeking similar. Must enjoy the Cuervo Gold and fine Colombian.
 Putting gas in the car? In this economy?
 Putting on Steely Dan and suddenly caring about chord voicings
-Real ones know Larry Carlton’s "Kid Charlemagne" solo is the only thing keeping the global economy stable.
+Real ones know Larry Carlton’s "Kid Charlemagne" solo is the only thing keeping the global economy stable
 Reelin' in the years? In this economy?
 Running a glamour profession? In this economy?
 Steely Dan after dark knows too much
@@ -222,6 +222,6 @@ This morning’s mood is brought to you by the Mu major chord
 This Steely Dan groove feels argued into existence
 TICKET #002: "Two Against Nature" update installed. All future responses will now be 15% more condescending.
 TICKET #999: Everything Must Go. Initiating total system wipe.
-WANTED: High-end audio engineer capable of making a human drum kit sound like a sentient calculator.
+WANTED: High-end audio engineer capable of making a human drum kit sound like a sentient calculator
 WANTED: Midnight cruiser for low-stakes nocturnal travel. Absolutely no static allowed.
 WANTED: Session guitarist for 8-bar solo; must be able to withstand 18 hours of silent judging from the control room.
