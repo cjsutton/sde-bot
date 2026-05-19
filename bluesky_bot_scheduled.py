@@ -113,9 +113,14 @@ class BlueskyBot:
         """
         On January 1st, reset all 'posted' flags to false for the new year.
         This allows annual posts (like holidays) to repeat each year.
+        Uses Eastern timezone.
         """
-        today = datetime.now()
-        
+        from zoneinfo import ZoneInfo
+    
+        # Use Eastern timezone instead of UTC
+        eastern = ZoneInfo('America/New_York')
+        today = datetime.now(eastern)
+    
         # Only run this check on January 1st
         if today.month != 1 or today.day != 1:
             return
@@ -145,9 +150,14 @@ class BlueskyBot:
         Find if there's a scheduled post for today.
         Returns the post text if found, None otherwise.
         Matches only on month and day (ignoring year) for annual repeating.
+        Uses Eastern timezone.
         """
+        from zoneinfo import ZoneInfo
+    
         scheduled_posts = self.load_scheduled_posts()
-        today = datetime.now()
+        # Use Eastern timezone instead of UTC
+        eastern = ZoneInfo('America/New_York')
+        today = datetime.now(eastern)
         today_month_day = today.strftime('%m-%d')  # e.g., "12-25" for Dec 25
         
         for post in scheduled_posts:
