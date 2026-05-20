@@ -5,6 +5,10 @@ on:
     workflows: ['*']
     types: [requested,completed]
 
+permissions:
+  contents: read
+  actions: read
+
 jobs:
   send-telemetry:
     runs-on: ubuntu-latest
