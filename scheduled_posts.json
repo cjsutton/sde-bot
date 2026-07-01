@@ -43,7 +43,8 @@
   {
     "date": "2026-07-01",
     "text": "Steely Dan's second studio album, Countdown to Ecstasy, was released this month in 1973.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-07-01T15:17:43.522441"
   },
   {
     "date": "2026-09-23",
