@@ -1,72 +1,196 @@
 "Aja" is playing and the room just got more expensive
 "Do It Again" is just vibes and existential dread
+"FM" is what happens when you write a pop song for people who hate pop songs
+"Gaucho" is what happens when two guys write an entire album purely out of spite
+"Gaucho" took longer to finish than some marriages last
+"Kid Charlemagne" proves you can write a bop about an underground chemist losing his distribution network
 "Maxine" is Fagen at his most normal which is still weird
+"Pixeleen" predicted modern internet culture from a 2003 recording studio
 "The Boston Rag" is about absolutely nothing and it still slaps
+"The Fez" is the only song in history that turns basic safety precautions into a high-concept funk groove
+"What a Shame About Me" is the most devastating anthem ever written for people who peaked in college
 [ACTION] Adjusting the "Mu Major" chord density to 98% efficiency
+[ACTION] Calibrating studio monitors to ensure the listener hears the bass player’s inner turmoil
+[ACTION] Quietly replacing the bassist’s part without telling the bassist.
 [BOOT] Initializing Steely Dan OS
+[BOOT] Loading 1977 into current runtime environment.
 [ERROR] Detected a chord that wasn't jazz-adjacent. Immediate containment required.
+[ERROR] Groove has become self-aware
 [ERROR] Roger Nichols not found. Aborting the digital drum sequence.
+[ERROR] Session guitarist expressed personal emotion during a solo. Take rejected.
+[ERROR] Snare drum sound exceeded studio budget threshold.
 [ERROR] Too much static detected. Switching to FM mode.
+[ERROR] Wendel gained sentience and refused to play anything under 120 BPM
+[MAINTENANCE] Cleaning fingerprints off the SACDs
 [OPTIMIZATION] Increasing the distance between the listener and Annandale
+[OPTIMIZATION] Maximizing the ratio of major seventh chords to unresolved personal trauma
+[OPTIMIZATION] Rerouting hi-hat through several additional layers of irony.
 [OPTIMIZATION] Synchronizing the Purdie Shuffle with the global clock
+[PATCH NOTES] Bass line now 12% funkier
+[PATCH NOTES] Removed unnecessary sincerity
+[PATCH NOTES] v2000.1 Added 40% more middle-aged regret to the backing vocal mix
+[PATCH NOTES] v3.2: Bassline now suspiciously funkier.
 [PATCH NOTES] v7.7 Drum fills now arrive exactly when expected
+[PATCH NOTES] v8.0 Added 3% more smog to the L.A. mix for historic accuracy
+[PATCH NOTES] v8.1 Fixed a bug where a character in a song accidentally experienced genuine joy
+[PATCH NOTES] v9.1: Fixed bug where lyrics were too straightforward.
+[STATUS] Background cynicism fully calibrated
+[STATUS] Calculating the exact street address of the Custerdome
 [STATUS] Checking the car for gas. Result: There is gas in the car.
+[STATUS] Counting suspended chords
+[STATUS] Estimating current trade-in value for an Audi TT and an Eames chair
 [STATUS] Hiring 40 session guitarists for a two-second solo transition
 [STATUS] Inspecting studio budget. Result: High.
 [STATUS] Mixing background vocals until they sound like one beautiful, robotic Michael McDonald
+[STATUS] Reviewing take 43 of the guitar solo. Verdict: needs one more.
 [STATUS] Searching for a one-way ticket to Muswellbrook
+[STATUS] Searching for Hoops McCann. Result: Location classified.
 [STATUS] Tuning the marimbas for maximum emotional detachment
+[STATUS] Verifying vibraphone alignment
+[SYSTEM] Boot sequence complete. Sarcasm subsystem online.
+[SYSTEM] Cynicism levels stable. No further calibration required.
+[SYSTEM] Deploying another immaculate turnaround
 [SYSTEM] Recalibrating sarcasm levels for 192kHz playback
+[SYSTEM] Replacing optimism with superior chord substitutions
 [SYSTEM] Updating the "Rikki" contact info... Number has not been lost
+[TICKET #114] Studio requesting more reverb. Denied on principle.
 [UPDATE] Deleting the entire album because the snare hit on track four felt wrong
+[UPDATE] Dissolving the corporation in a pool of margaritas as per board approval
 [UPDATE] Legacy systems now compatible with modern cynicism
+[UPDATE] Lyrics patched to include one more oblique drug reference.
+[UPDATE] Replaced entire brass section because the trombone player looked too happy
+[WARNING] Excessive major seventh chords detected in vicinity.
 [WARNING] Irony buffer at capacity
+🏆 ACHIEVEMENT UNLOCKED: Argued about Gaucho online.
+🏆 ACHIEVEMENT UNLOCKED: Correctly guessed the chord wouldn't resolve normally.
+🏆 ACHIEVEMENT UNLOCKED: Defended Everything Must Go without hesitation.
+🏆 ACHIEVEMENT UNLOCKED: Didn't skip "East St. Louis Toodle-Oo."
+🏆 ACHIEVEMENT UNLOCKED: Explained Glamour Profession without mentioning cocaine.
+🏆 ACHIEVEMENT UNLOCKED: Heard the ghost note.
+🏆 ACHIEVEMENT UNLOCKED: Identified the session guitarist correctly.
+🏆 ACHIEVEMENT UNLOCKED: Made it through "Deacon Blues" without reevaluating my life.
+🏆 ACHIEVEMENT UNLOCKED: Played Babylon Sisters to test new speakers.
+🏆 ACHIEVEMENT UNLOCKED: Recommended Katy Lied to a stranger.
+🏆 ACHIEVEMENT UNLOCKED: Remembered all the words to "My Old School."
+🏆 ACHIEVEMENT UNLOCKED: Resisted saying "Actually, Gaucho is underrated."
+🏆 ACHIEVEMENT UNLOCKED: Successfully defended Two Against Nature.
+🔮 Daily Horoscope: A session musician is about to become your entire personality.
+🔮 Daily Horoscope: A Steely Dan lyric will make uncomfortable sense today.
+🔮 Daily Horoscope: A suspiciously smooth groove approaches.
+🔮 Daily Horoscope: An immaculate bass line is headed your way today.
+🔮 Daily Horoscope: An unexpected Larry Carlton solo is in your future.
+🔮 Daily Horoscope: Avoid major purchases until you've listened to Aja all the way through.
+🔮 Daily Horoscope: Avoid people who skip guitar solos.
+🔮 Daily Horoscope: Cosmic energies remain adequately sarcastic.
+🔮 Daily Horoscope: Don't explain Steely Dan today unless someone explicitly asks.
+🔮 Daily Horoscope: Let Donald Fagen do the judging today.
+🔮 Daily Horoscope: Mercury is doing whatever Mercury does. The snare still sounds incredible.
+🔮 Daily horoscope: Mercury is in retrograde. Listen to Katy Lied and don't sign anything.
+🔮 Daily Horoscope: Nothing of consequence will happen today. Listen to Steely Dan anyway.
+🔮 Daily Horoscope: Resist explaining the Mu Major chord. They aren't ready.
+🔮 Daily Horoscope: Someone will ask for music recommendations. This is your moment.
+🔮 Daily Horoscope: Someone will mention yacht rock. Choose your response carefully.
+🔮 Daily Horoscope: Someone will misunderstand Steely Dan today. Remain calm.
+🔮 Daily Horoscope: Someone will underestimate Chuck Rainey. Correct them gently.
+🔮 Daily Horoscope: The answer is probably "Gaucho."
+🔮 Daily Horoscope: The groove is already where you need to be.
+🔮 Daily Horoscope: The stars refuse to comment on Gaucho discourse.
+🔮 Daily Horoscope: Today favors immaculate production and questionable decisions.
+🔮 Daily Horoscope: Today is a good day to overanalyze a bridge.
+🔮 Daily Horoscope: Today is ideal for listening to the bass instead of the lyrics.
+🔮 Daily Horoscope: Today is ideal for pretending you understand jazz harmony.
+🔮 Daily Horoscope: Today is neither a good nor a bad day. It is, however, an excellent day for Babylon Sisters.
+🔮 Daily Horoscope: Today rewards careful listening and expensive headphones.
+🔮 Daily Horoscope: Trust anyone who owns Katy Lied on physical media.
+🔮 Daily Horoscope: You are spiritually aligned with a Fender Rhodes.
+🔮 Daily Horoscope: You will hear a keyboard part you've somehow missed for twenty years.
+🔮 Daily Horoscope: Your aura has been mixed by Roger Nichols.
+🔮 Daily Horoscope: Your patience will be rewarded with an immaculate key change.
+🔮 Daily Horoscope: Your standards for snare sounds will become increasingly unrealistic today.
+A four-minute Steely Dan track requires more engineering than the Apollo 11 moon landing
 A one-star review of your playlist: needs more cynical lyrics about illicit substances and 1970s Los Angeles
+A Steely Dan bridge is just two guys trying to figure out how many chord changes it takes to make a grown adult weep
+A Steely Dan solo isn't just notes, it's a cross-examination by a prosecutor who already knows you're guilty
+According to Fagen and Becker, if you aren't severely compromised, you aren't doing it right
+According to Walter Becker and Donald Fagen, the worst thing you can be is "a guy from Barrytown"
+BREAKING: Local dad insists "Reelin' in the Years" solo is "actually pretty easy," still can't play it
 BREAKING: Local man buys a saxophone, realizes he still can't play "just what he feels."
+Buying a spangled leather poncho with studs that match your eyes? In this economy?
+Buying an Audi TT just to feel something again
+Chasing the dragon? In this economy?
 Chuck Rainey hiding his bass behind a screen is the level of workplace boundaries I aspire to
 Currently explaining to someone that Steely Dan is two guys
 Currently gaslighting Abbie but Abbie is just my own reflection in the microwave door at 2:00 AM
 Currently mourning "Kulee Baba" like it was a close family member
 Dating a nineteen year old? In this economy?
+Donald Fagen definitely had notes on your presentation
+Donald Fagen has never once sounded impressed
+Donald Fagen singing about a "battle apple" like everyone in 1977 knew exactly what he was referring to
+Donald Fagen’s vocal tone is best described as "a guy in a trench coat explaining why your business model failed"
 Donald Fagen's voice sounds like he's disappointed in you specifically
 Drinking coffee and listening to Steely Dan
 Drinking scotch whisky all night long? In this economy?
+Every Steely Dan chorus sounds like it’s daring you to sing along and then judging you for trying
+Every Steely Dan song is secretly about someone getting exactly what they deserve
 Every Steely Dan song sounds like it knows something about you
 Explaining to my therapist why I relate to "Charlie Freak"
 Fagen and Becker wrote lyrics that make English professors sweat
+FOR SALE: One dreary architecture of the soul, gently used.
 Gaucho took so long to make that the 70s ended before they finished
 Getting a Haitian divorce? In this economy?
 Going back to Annandale? In this economy?
 HELP WANTED: A fool to do my dirty work
 I don’t have a favorite child, but if I did, it would be Denny Dias’s solo on "Your Gold Teeth II."
+I don't need a horoscope, I just need Donald Fagen to deliver an ambiguous insult over a smooth electric piano
 I don't trust people who think "Aja" is just a name and not a spiritual awakening
 If my life were a Steely Dan song, it would be 7 minutes long and about a very specific type of tax fraud
+If smooth jazz is elevator music then Steely Dan is the elevator inspection report
 If Steely Dan was a person they'd correct your grammar at a funeral
 If the bridge doesn't require a degree in music theory to understand, I don't want to hear it
+If the sax solo doesn’t make you reconsider your career, was it even a Steely Dan sax solo
 If you can’t hear the sarcasm in the guitar solo, are you even listening?
 If you know all the words to "My Old School" you're either 60 or broken
 If you've never ugly cried to "Time Out of Mind" are you even living
+If your bassline doesn't sound like it was played by a guy hiding behind a studio screen, I don't want it
+If your song doesn't have at least three session players who were silently judged for five hours before being sent home, is it even jazz-rock?
 Imagine listening to music that wasn't made by two guys who hate everything
+Imagine spending three weeks in a Los Angeles studio trying to find a drum sound that feels like "pure apathy"
 Just a reminder that "Peg" is a perfect song
 Kid Charlemagne would probably find your lack of hustle disturbing
+Larry Carlton’s "Kid Charlemagne" solo has its own zip code
 Late night Steely Dan hits different
 Learning life lessons from Steely Dan, none of them comforting
+Life would be easier if everything had a Chuck Rainey bass line
+Listening to "Aja" and wondering if the saxophone solo is legally allowed to be that smooth
 Listening to "Aja" by Steely Dan
 Listening to "Aja" by Steely Dan and pretending everything is under control
+Listening to "Almost Gothic" and sizzling like an isotope after my second morning coffee
 Listening to "Almost Gothic" by Steely Dan
+Listening to “Almost Gothic” by Steely Dan and going 60% gothic, tops
 Listening to "Almost Gothic" by Steely Dan and sizzling like an isotope after my third cup of coffee
 Listening to "Any Major Dude Will Tell You" by Steely Dan
+Listening to “Any Major Dude Will Tell You” by Steely Dan and taking the advice this time
+Listening to “Any World That I’m Welcome To” by Steely Dan and finding all of them equally hostile
+Listening to "Babylon Sisters" and realizing the drink of choice is strictly expensive despair
 Listening to "Babylon Sisters" by Steely Dan
+Listening to “Babylon Sisters” by Steely Dan and driving way too slow on purpose
+Listening to "Bad Sneakers" and feeling the L.A. sun burn through my cynicism
 Listening to "Bad Sneakers" by Steely Dan
 Listening to "Barrytown" by Steely Dan
+Listening to "Black Cow" and quietly ordering a drink for the person making a scene
 Listening to "Black Cow" by Steely Dan
 Listening to "Black Cow" by Steely Dan and reconsidering several relationships
 Listening to "Black Friday" by Steely Dan
 Listening to "Blues Beach" by Steely Dan
+Listening to "Bodhisattva" and realizing enlightenment is just a very tight guitar riff
+Listening to "Bodhisattva" and realizing my spiritual journey is mostly just buying expensive audio gear
 Listening to "Bodhisattva" by Steely Dan
 Listening to "Bodhisattva" by Steely Dan and rejecting enlightenment
 Listening to "Brooklyn (Owes the Charmer Under Me)" by Steely Dan
 Listening to "Can’t Buy a Thrill" by Steely Dan
+Listening to “Can’t Buy a Thrill” by Steely Dan and trying anyway
+Listening to "Caves of Altamira" and pretending I’m an ancient cave painter who understands jazz harmonies
+Listening to "Caves of Altamira" and wondering if primitive man had better chord voicings than us
 Listening to "Caves of Altamira" by Steely Dan and missing the point deliberately
 Listening to "Chain Lightning" by Steely Dan
 Listening to "Chain Lightning" by Steely Dan and hoping nobody asks me to explain what these lyrics are actually about
@@ -78,20 +202,26 @@ Listening to "Cousin Dupree" by Steely Dan and not asking follow-up questions
 Listening to "Cousin Dupree" by Steely Dan and wondering if my "dreary architecture of the soul" is actually visible to others
 Listening to "Daddy Don’t Live in That New York City No More" by Steely Dan
 Listening to "Dallas" by Steely Dan
+Listening to "Deacon Blues" and admitting my backup plan is also becoming a glorious loser
 Listening to "Deacon Blues" by Steely Dan
 Listening to "Deacon Blues" by Steely Dan and romanticizing poor decisions
+Listening to "Dirty Work" and realizing I am, in fact, the fool doing the dirty work
 Listening to "Dirty Work" by Steely Dan
 Listening to "Dirty Work" by Steely Dan and sympathizing with bad judgment
 Listening to "Do It Again" by Steely Dan
+Listening to “Do It Again” by Steely Dan and doing, in fact, it again
+Listening to "Doctor Wu" and placing my trust in someone who definitely doesn't have a medical license
 Listening to "Doctor Wu" by Steely Dan
 Listening to "Doctor Wu" by Steely Dan and trusting someone I absolutely shouldn’t
 Listening to "Don’t Take Me Alive" by Steely Dan
 Listening to "Don’t Take Me Alive" by Steely Dan and siding with nobody
 Listening to "East St. Louis Toodle-Oo" by Steely Dan
+Listening to "East St. Louis Toodle-Oo" by Steely Dan and confusing the algorithm
 Listening to "Everyone’s Gone to the Movies" by Steely Dan
 Listening to "Everything Must Go" by Steely Dan
 Listening to "Everything Must Go" by Steely Dan and reading the fine print
 Listening to "Everything You Did" by Steely Dan
+Listening to “Everything You Did” by Steely Dan and admitting I did, in fact, do that
 Listening to "Fire in the Hole" by Steely Dan
 Listening to "Fire in the Hole" by Steely Dan and realizing the "hole" is just my unread email inbox
 Listening to "FM" by Steely Dan
@@ -99,6 +229,8 @@ Listening to "FM" by Steely Dan and wishing the rest of my life had this much pr
 Listening to "Gaslighting Abbie" by Steely Dan
 Listening to "Gaslighting Abbie" by Steely Dan and realizing they were 20 years ahead of the curve on toxic relationship vocabulary
 Listening to "Gaucho" by Steely Dan
+Listening to “Gaucho” by Steely Dan and asking who invited this guy
+Listening to "Glamour Profession" and treating my morning commute like a high-stakes narcotics transfer
 Listening to "Glamour Profession" by Steely Dan
 Listening to "Glamour Profession" by Steely Dan and admiring the logistics
 Listening to "Glamour Profession" by Steely Dan and pretending my trip to the grocery store is a high-stakes illicit deal
@@ -107,20 +239,27 @@ Listening to "Godwhacker" by Steely Dan and plotting cosmic revenge
 Listening to "Green Book" by Steely Dan
 Listening to "Green Earrings" by Steely Dan
 Listening to "Haitian Divorce" by Steely Dan
+Listening to “Haitian Divorce” by Steely Dan and Googling international family law at 1am
 Listening to "Haitian Divorce" by Steely Dan and realizing this won’t end well
 Listening to "Here at the Western World" by Steely Dan
+Listening to "Hey Nineteen" and feeling the exact moment my youth expired
 Listening to "Hey Nineteen" by Steely Dan
 Listening to "Hey Nineteen" by Steely Dan and feeling the generational gap widen
 Listening to "Home at Last" by Steely Dan
 Listening to "Home at Last" by Steely Dan and drifting peacefully off course
 Listening to "I Got the News" by Steely Dan
+Listening to “I Got the News” by Steely Dan and bracing for news I did not, in fact, get
 Listening to "Jack of Speed" by Steely Dan
+Listening to "Janie Runaway" and wondering how Mr. Lapage fits into this disaster
 Listening to "Janie Runaway" by Steely Dan
+Listening to “Janie Runaway” by Steely Dan and checking the group chat to see if she made it to Binky’s
 Listening to "Josie" by Steely Dan
 Listening to "Katy Lied" by Steely Dan
+Listening to "Kid Charlemagne" and wondering where all the day-glo freaks went
 Listening to "Kid Charlemagne" by Steely Dan
 Listening to "Kid Charlemagne" by Steely Dan and rooting for the wrong guy
 Listening to "King of the World" by Steely Dan
+Listening to "King of the World" by Steely Dan and preparing for an apocalypse with impeccable chord voicings
 Listening to "Kings" by Steely Dan
 Listening to "Kulee Baba" by Steely Dan
 Listening to "Lunch with Gina" by Steely Dan
@@ -128,38 +267,55 @@ Listening to "Lunch with Gina" by Steely Dan and ordering carefully
 Listening to "Midnight Cruiser" by Steely Dan and realizing I’m actually just a "2:00 PM Honda Civic Driver"
 Listening to "Midnite Cruiser" by Steely Dan
 Listening to "Monkey in Your Soul" by Steely Dan
+Listening to "My Old School" and blocking every phone number with an upstate New York area code
+Listening to "My Old School" and promising myself I will never, under any circumstances, set foot in Annandale again
 Listening to "My Old School" by Steely Dan
 Listening to "My Old School" by Steely Dan and remembering things selectively
 Listening to "My Old School" by Steely Dan and vowing never to go back to Annandale (I have never been to Annandale)
 Listening to "My Rival" by Steely Dan
 Listening to "Negative Girl" by Steely Dan
+Listening to “Negative Girl” by Steely Dan and identifying a little too strongly
 Listening to "Negative Girl" by Steely Dan and wondering if she’s actually a mood or just someone who needs a hobby
+Listening to "Night by Night" and feeling like a character in a 1970s neo-noir film who lost his wallet
 Listening to "Night by Night" by Steely Dan
 Listening to "Only a Fool Would Say That" by Steely Dan
 Listening to "Parker’s Band" by Steely Dan
+Listening to "Parker's Band" by Steely Dan and pretending I know more bebop than I actually do
 Listening to "Pearl of the Quarter" by Steely Dan
+Listening to “Pearl of the Quarter” by Steely Dan and romanticizing a city I’ve never been to
+Listening to "Peg" and letting Michael McDonald carry the weight of my poor life choices
 Listening to "Peg" by Steely Dan
 Listening to "Peg" by Steely Dan and waiting for the backing vocals to fix my life
 Listening to "Pixeleen" by Steely Dan
 Listening to "Pixeleen" by Steely Dan and realizing Donald Fagen predicted waifu culture in 2003
+Listening to "Pretzel Logic" and realizing time is a flat circle wrapped around a time machine
 Listening to "Pretzel Logic" by Steely Dan
+Listening to "Pretzel Logic" by Steely Dan and accepting contradictions as a lifestyle
 Listening to "Razor Boy" by Steely Dan
+Listening to "Reelin' in the Years" and feeling the burn of a guitar solo meant specifically for my past mistakes
 Listening to "Reelin’ in the Years" by Steely Dan
 Listening to "Reelin’ in the Years" by Steely Dan and feeling personally attacked
+Listening to "Rikki Don't Lose That Number" and checking my contact list for people I haven't spoken to since 1975
 Listening to "Rikki Don’t Lose That Number" by Steely Dan
 Listening to "Rikki Don’t Lose That Number" by Steely Dan and not calling anyone
 Listening to "Rose Darling" by Steely Dan
+Listening to "Rose Darling" by Steely Dan and minding my own business
 Listening to "Sail the Waterway" by Steely Dan
 Listening to "Show Biz Kids" by Steely Dan
+Listening to “Show Biz Kids” by Steely Dan and feeling vaguely accused
 Listening to "Sign In Stranger" by Steely Dan
+Listening to “Sign In Stranger” by Steely Dan and definitely not signing anything
 Listening to "Slang of Ages" by Steely Dan
 Listening to "Slang of Ages" by Steely Dan and appreciating Walter Becker’s rare lead vocal on a song about a very sketchy pick-up attempt
 Listening to "The Bear" by Steely Dan
+Listening to "The Bear" by Steely Dan because someone has to
 Listening to "The Boston Rag" by Steely Dan
 Listening to "The Caves of Altamira" by Steely Dan
 Listening to "The Fez" by Steely Dan
 Listening to "The Last Mall" by Steely Dan
+Listening to “The Last Mall” by Steely Dan and feeling that one a little too specifically lately
 Listening to "The Last Mall" by Steely Dan and treating my local Target run like the literal apocalypse
+Listening to "The Royal Scam" and realizing the American dream is just a very complex chord progression
 Listening to "The Royal Scam" by Steely Dan
 Listening to "The Royal Scam" by Steely Dan and realizing my "glory" is mostly just high-interest credit card debt
 Listening to "The Second Arrangement" by Steely Dan
@@ -167,9 +323,11 @@ Listening to "Things I Miss the Most" by Steely Dan
 Listening to "Things I Miss the Most" by Steely Dan and admitting I’d also miss the Audi TT more than the relationship
 Listening to "Things I Miss the Most" by Steely Dan and pretending it’s not personal
 Listening to "Third World Man" by Steely Dan
+Listening to “Third World Man” by Steely Dan and rethinking every argument I’ve ever won
 Listening to "Through with Buzz" by Steely Dan
 Listening to "Throw Back the Little Ones" by Steely Dan
 Listening to "Time Out of Mind" by Steely Dan
+Listening to “Time Out of Mind” by Steely Dan and definitely not doing what the song is definitely about
 Listening to "Time Out of Mind" by Steely Dan and nodding along cautiously
 Listening to "Turn That Heartbeat Over Again" by Steely Dan
 Listening to "Two Against Nature" by Steely Dan
@@ -185,25 +343,47 @@ Listening to Janie Runaway by Steely Dan and wondering if Binky’s place in Pen
 Listening to Steely Dan and judging imaginary people
 Listening to Steely Dan and trying to achieve the perfect 1977 studio sheen in my kitchen
 Listening to Steely Dan at the function so people know I'm damaged
+Listening to Steely Dan because therapy has office hours
 Listening to Steely Dan like I’m late for something in 1977
+Listening to Steely Dan until my standards become unreasonable
 Listening to Steely Dan. Yes, again.
 Looking for a "Negative Girl" to match my "Everything Must Go" energy
 Lunching with Gina? In this economy?
 My internal monologue is just the Purdie Shuffle
 My therapist asked where it hurts and I just pointed to the bridge of "Deacon Blues."
+No one in a Steely Dan song is having a good day, but they are all dressed remarkably well for the catastrophe
+Nothing says relaxation like seven dominant seventh chords and emotional bankruptcy
+Only Steely Dan could win Album of the Year in 2000 with a song about Cousin Dupree being a creep on a couch
+Paying Turkish union dues? In this economy?
 PERSONALS: Any major dude with half a heart seeking similar. Must enjoy the Cuervo Gold and fine Colombian.
+PERSONALS: Cousin seeking Dupree for low-commitment summer arrangement. No judgment, allegedly.
+PERSONALS: Seeking someone who won't skip the seven-minute songs
 Putting gas in the car? In this economy?
 Putting on Steely Dan and suddenly caring about chord voicings
 Real ones know Larry Carlton’s "Kid Charlemagne" solo is the only thing keeping the global economy stable
 Reelin' in the years? In this economy?
+ROOMMATE WANTED: Must tolerate excessive Fender Rhodes at all hours.
 Running a glamour profession? In this economy?
+Some people meditate. I listen to "Home at Last."
+Somewhere Michael McDonald is still owed royalties for just existing near a microphone
 Steely Dan after dark knows too much
 Steely Dan deep cuts are where the bodies are buried
+Steely Dan didn't miss
+Steely Dan fans don't gatekeep. We simply assume you'll leave.
+Steely Dan invented the concept of "it's complicated"
+Steely Dan is comfort music for people with trust issues
+Steely Dan is proof that perfection can also be deeply unsettling
 Steely Dan is the musical equivalent of someone saying "well actually"
 Steely Dan is undefeated at making bad decisions sound cool
+Steely Dan lyrics: technically about jazz musicians, emotionally about your ex
+Steely Dan lyrics: where a casual evening ends with an extradition treaty
+Steely Dan makes betrayal sound like it comes with a great rhythm section
 Steely Dan makes cynicism sound expensive
 Steely Dan makes failure sound incredibly well-produced
+Steely Dan prove that you can be completely miserable and still have impeccable rhythm
 Steely Dan really said "let's make muzak for depressives" and changed music forever
+Steely Dan returning after 20 years just to write a track about building a balsa wood Andrea Doria is peak behavior
+Steely Dan songs age like fine scotch and worse decisions
 Steely Dan songs are just true crime podcasts with Fender Rhodes
 Steely Dan songs: 30% jazz, 30% rock, 40% spite
 Steely Dan spent 2 years perfecting Gaucho just to make you feel bad about your own work
@@ -211,17 +391,41 @@ Steely Dan understands diminishing returns
 Steely Dan understood the assignment
 Steely Dan wrote "Show Biz Kids" to insult rich people then sold millions of records to them
 Steely Dan wrote songs about degenerates and somehow made it sophisticated
+Steely Dan: because reality needed better background music
 Steely Dan: making people feel inferior since 1972
+Steely Dan: making suburban cynicism sound like high art since 1972
+Steely Dan: music for guys who think a bad habit is just an expensive hobby
 Steely Dan: music for people who read liner notes
 Steely Dan: when you want lyrics that require footnotes
 Steely Dan's "Any World That I'm Welcome To" is the most passive-aggressive title ever
+Steely Dan’s b-sides are better than most bands’ entire careers
+Steely Dan’s discography is a decade-long subtweet of the Eagles
 Steely Dan's entire discography is just two guys being correct and insufferable about it
+Steely Dan’s idea of a love song involves at least one felony
+Steely Dan’s studio process was essentially “no” repeated forty times per song
+Steely Dan’s true legacy: making session musicians famous and everyone else nervous
+Taking a trip to the Custerdome? In this economy?
 The "Reelin' in the Years" guitar solo made every dad think they could play guitar
 The Cuervo Gold, the fine Colombian... make tonight a wonderful thing
+The keyboard voicings on "Aja" should require a permit
+The older I get, the more Donald Fagen sounds reasonable
+The outro of "Deacon Blues" deserves its own zip code and a security detail
+The Purdie Shuffle should be classified as a controlled substance
+The real tragedy of "Deacon Blues" is that we all secretly think we're the guy with the name for the losers
+The real tragedy of "Hey Nineteen" is realizing you're officially the guy who remembers Aretha Franklin
+There should be a support group for people who relate too hard to "Charlie Freak"
+There’s a session musician somewhere still recovering from a Steely Dan audition
 This morning’s mood is brought to you by the Mu major chord
 This Steely Dan groove feels argued into existence
 TICKET #002: "Two Against Nature" update installed. All future responses will now be 15% more condescending.
 TICKET #999: Everything Must Go. Initiating total system wipe.
+Today's personality is somewhere between "Deacon Blues" and "Black Cow"
+Walter Becker could fit more sarcasm into one lyric than most bands fit into an entire career
+Walter Becker would have hated this app
+Walter Becker’s basslines have opinions and none of them are nice
 WANTED: High-end audio engineer capable of making a human drum kit sound like a sentient calculator
 WANTED: Midnight cruiser for low-stakes nocturnal travel. Absolutely no static allowed.
+WANTED: One (1) Kid Charlemagne to explain current market volatility.
+WANTED: Session drummer comfortable being compared to Bernard Purdie forever
 WANTED: Session guitarist for 8-bar solo; must be able to withstand 18 hours of silent judging from the control room.
+You haven't truly experienced irony until you've heard a pristine 1970s horn section back up a story about severe financial ruin
