@@ -97,11 +97,21 @@ class BlueskyBot:
         """
         Save the bot state (recent posts history).
         Args:
-            recent_posts: List of recently used post texts (max 220 for 110 days at 2/day)
+            recent_posts: List of recently used post texts
+
+        The history length scales with the current size of posts.txt (minus a
+        small buffer) instead of a hardcoded number. That way, whenever the
+        pool of regular posts grows or shrinks, the "don't repeat until the
+        whole pool has been used" behavior keeps working automatically and
+        nobody has to remember to bump a magic number here again.
         """
         try:
-            # Keep only the last 227 posts
-            recent_posts = recent_posts[-227:]
+            pool_size = len(self.load_regular_posts())
+            # Remember almost the whole pool, leaving a small buffer so a
+            # handful of the least-recently-used posts are always eligible
+            # again rather than requiring an exact full cycle.
+            max_history = max(pool_size - 10, 0) if pool_size else 227
+            recent_posts = recent_posts[-max_history:] if max_history else []
             
             with open(self.state_file, 'w') as f:
                 json.dump({'recent_posts': recent_posts}, f, indent=2)
