@@ -3,7 +3,7 @@ name: Bluesky Scheduled Posts
 on:
   schedule:
     # Post at 7:30 AM EST (adjust for your timezone)
-    - cron: '30 12 * * *'
+    - cron: '30 11 * * *'
     # Post at 5:30 PM EST
     - cron: '30 22 * * *'
   
