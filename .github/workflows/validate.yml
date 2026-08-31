@@ -1,0 +1,38 @@
+name: Validate Bluesky Bot Content
+
+on:
+  push:
+    paths:
+      - 'posts.txt'
+      - 'scheduled_posts.json'
+      - 'bluesky_bot_scheduled.py'
+      - 'requirements.txt'
+  pull_request:
+    paths:
+      - 'posts.txt'
+      - 'scheduled_posts.json'
+      - 'bluesky_bot_scheduled.py'
+      - 'requirements.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate content
+        run: python bluesky_bot_scheduled.py --validate

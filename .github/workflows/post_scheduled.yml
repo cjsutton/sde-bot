@@ -2,50 +2,57 @@ name: Bluesky Scheduled Posts
 
 on:
   schedule:
-    # Post at 7:30 AM EST (adjust for your timezone)
-    - cron: '37 11 * * *'
-    # Post at 5:30 PM EST
-    - cron: '43 22 * * *'
-  
-  # Allows you to run this workflow manually from the Actions tab
+    # Intentionally off the top of the hour to reduce GitHub Actions cron congestion.
+    # GitHub's timezone-aware schedules handle EST/EDT automatically.
+    - cron: '37 6 * * *'
+      timezone: 'America/New_York'
+    - cron: '43 17 * * *'
+      timezone: 'America/New_York'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+# Never let two posting runs operate on the same repo-backed state simultaneously.
+concurrency:
+  group: bluesky-posting
+  cancel-in-progress: false
+
 jobs:
   post-to-bluesky:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-        
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
-        
-    - name: Run bot
-      env:
-        BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
-        BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
-      run: |
-        python bluesky_bot_scheduled.py
-        
-    - name: Commit updated files
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add bot_state.json scheduled_posts.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update bot state and scheduled posts [skip ci]"
-        
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate bot content
+        run: python bluesky_bot_scheduled.py --validate
+
+      - name: Run bot
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+        run: python bluesky_bot_scheduled.py
+
+      - name: Commit and push state changes
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add bot_state.json scheduled_posts.json
+
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "Update bot state [skip ci]"
+            git push
+          fi
