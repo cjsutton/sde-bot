@@ -4,9 +4,9 @@ on:
   schedule:
     # Intentionally off the top of the hour to reduce GitHub Actions cron congestion.
     # GitHub's timezone-aware schedules handle EST/EDT automatically.
-    - cron: '37 6 * * *'
+    - cron: '37 12 * * *'
       timezone: 'America/New_York'
-    - cron: '43 17 * * *'
+    - cron: '37 20 * * *'
       timezone: 'America/New_York'
   workflow_dispatch:
 
